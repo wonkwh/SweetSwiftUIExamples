@@ -44,6 +44,7 @@
 		52C000FB240EFCD200E3D6AC /* Ch03_3_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C000FA240EFCD100E3D6AC /* Ch03_3_List.swift */; };
 		52C000FD240EFCDF00E3D6AC /* Ch03_4_GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C000FC240EFCDF00E3D6AC /* Ch03_4_GeometryReader.swift */; };
 		52C000FF240EFCFB00E3D6AC /* Ch03_5_FrameModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C000FE240EFCFB00E3D6AC /* Ch03_5_FrameModifier.swift */; };
+		F794D45E27BF6CAC003DFA6F /* Stack_Custom_Center_Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = F794D45D27BF6CAC003DFA6F /* Stack_Custom_Center_Alignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		52C000FA240EFCD100E3D6AC /* Ch03_3_List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ch03_3_List.swift; sourceTree = "<group>"; };
 		52C000FC240EFCDF00E3D6AC /* Ch03_4_GeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ch03_4_GeometryReader.swift; sourceTree = "<group>"; };
 		52C000FE240EFCFB00E3D6AC /* Ch03_5_FrameModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ch03_5_FrameModifier.swift; sourceTree = "<group>"; };
+		F794D45D27BF6CAC003DFA6F /* Stack_Custom_Center_Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack_Custom_Center_Alignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 				5283F8AA240DC8AC00813AA5 /* Ch02_4_ViewLayout_Stack.swift */,
 				52C000F2240EEFBD00E3D6AC /* Ch02_4_ViewLayout_Spacer.swift */,
 				52C000F4240EF01400E3D6AC /* Ch02_4_ViewLayout_Modifier.swift */,
+				F794D45D27BF6CAC003DFA6F /* Stack_Custom_Center_Alignment.swift */,
 			);
 			path = Ch02;
 			sourceTree = "<group>";
@@ -370,6 +373,7 @@
 				521B8300241150F20098B353 /* Ch05_3_PresentationStyle.swift in Sources */,
 				52C000FB240EFCD200E3D6AC /* Ch03_3_List.swift in Sources */,
 				52C000FF240EFCFB00E3D6AC /* Ch03_5_FrameModifier.swift in Sources */,
+				F794D45E27BF6CAC003DFA6F /* Stack_Custom_Center_Alignment.swift in Sources */,
 				521B8302241151050098B353 /* Ch06_1_ViewModifier.swift in Sources */,
 				521B83122411516A0098B353 /* Ch09_1_Gesture.swift in Sources */,
 				521B8304241151110098B353 /* Ch06_2_CustomStyle.swift in Sources */,

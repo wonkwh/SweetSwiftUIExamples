@@ -10,7 +10,7 @@ import SwiftUI
 
 struct Ch02_4_ViewLayout_Spacer: View {
   var body: some View {
-    Example01()
+    Example02()
   }
 }
 
